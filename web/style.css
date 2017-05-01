@@ -1,0 +1,62 @@
+body {
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    background: #e6eaf2 url(images/white_bubbles.jpg);
+}
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+    font-style: italic;
+    color: #D0B26F;
+    text-align: center;
+}
+#container {
+    background-color: rgba(227,240,253, 0.7);
+    border: thin solid #D0B26F;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+}
+#good_list {
+    position: absolute;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25em;
+    font-style: italic;
+    line-height: 2em;
+    color: #D0B26F;
+}
+#content {
+    margin: 0 0.5em 1em 15em;
+    padding: 0.5em 0.5em 1em 0;
+    line-height: 1.5;
+}
+#content img {
+    float: left;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+.present {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    color: dimgrey;
+}
+.yes {
+    font-family: 'Playfair Display', serif;
+    font-size: 3em;
+    text-align: center;
+    font-style: italic;
+    color: #D0B26F;
+    margin: 0;
+}
+#know_more {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    margin-right: 40px;
+    color: dimgrey;
+}
+#email {
+    margin: 0 2em 1em 15em;
+    font-family: 'Raleway', sans-serif;
+    color: dimgrey;
+}
